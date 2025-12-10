@@ -1,0 +1,10 @@
+img {
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Sans-serif';
+    background: rgb(246, 255, 255);
+    color: brown;
+}
